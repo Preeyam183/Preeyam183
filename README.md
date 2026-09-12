@@ -1,10 +1,10 @@
 ## Hey, I'm Preeyam Shah 👋
 
-B.S. Computer Science & B.A. Data Science (Statistics Track) @ Rutgers University - New Brunswick Honors College
+B.S. Computer Science & B.S. Data Science @ Rutgers University - New Brunswick
 
-*I am passionate about building scalable AI systems, exploring mechanistic interpretability, and working with data-driven applications.*
+*I am passionate about building scalable systems and working in the intersection of Software engineering and AI*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hardhik.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atchakalahardhik) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preeyam.shah@rutgers.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hardhik.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atchakalahardhik) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preeyamshah0604@gmail.com)
 
 ## My Skills
 
