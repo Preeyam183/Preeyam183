@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hey, I'm Preeyam Shah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hey, I'm Preeyam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 B.S. Computer Science & Data Science @ Rutgers University - New Brunswick
 
 *I am passionate about building scalable systems and working in the intersection of Software engineering and AI/ML*
