@@ -5,7 +5,7 @@ B.S. Computer Science & Data Science @ Rutgers University - New Brunswick
 
 *I am passionate about building scalable systems and working in the intersection of Software engineering and AI/ML*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preeyam-shah-5706bb281/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preeyamshah0604@gmail.com)[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/preeyamshah0604?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://preeyam183.github.io/personal_portfolio/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preeyam-shah-5706bb281/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preeyamshah0604@gmail.com)[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/preeyamshah0604?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 ## My Skills
 
